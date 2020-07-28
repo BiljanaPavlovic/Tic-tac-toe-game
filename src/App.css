@@ -76,3 +76,17 @@
     transform: rotate(360deg);
   }
 }
+@media (max-width: 768px) {
+  .all-boards {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .table {
+    width: 300px;
+    height: 300px;
+  }
+  .polje {
+    padding: 10px;
+  }
+}
