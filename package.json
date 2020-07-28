@@ -35,5 +35,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://biljanapavlovic.github.io/Tic-tac-toe-game/"
 }
